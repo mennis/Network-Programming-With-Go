@@ -1,6 +1,9 @@
 # Network Programming with Go
 
-An e-book on building network applications using the Google Go programming language (Golang)
+An e-book on building network applications using the Google Go programming language (Golang).
+I wrote this a few years ago (2012), taking my old lecture notes in Java and rewriting them in Go.
+There were many things that did not copy across due to the richness of the Java libraries, but
+where Go is applicable it generally gives cleaner and simpler code than Java.
 
 Copyright © Jan Newmarch jan@newmarch.name 
 
