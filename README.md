@@ -19,6 +19,20 @@ If you like this book, please consider contributing using PayPal:
 
 </a>
 
+<br/>
+
+Or Flattr me:
+
+<a href="https://flattr.com/submit/auto?
+  user_id=jannewmarch&url=http://jan.newmarch.name&
+  title=Network%20Programming%20with%20Go&
+  description=Network%20Programming%20with%20Go&
+  language=en_GB&tags=go,golang,distributed%20programming,web,html,tcp/ip&category=text">
+
+<img src="https://api.flattr.com/button/flattr-badge-large.png" 
+  alt="Flattr this book" />
+</a>
+
 </div>
 
 Copyright © Jan Newmarch jan@newmarch.name 
